@@ -71,10 +71,6 @@ const Skills = () => {
       icon: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg'
     },
     {
-      name: 'AWS',
-      icon: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg'
-    },
-    {
       name: 'Firebase',
       icon: 'https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg'
     }
