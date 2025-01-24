@@ -34,7 +34,6 @@ export const skills: Skill[] = [
     icon: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     category: 'frontend'
   },
-  // ... (rest of the skills)
 ];
 
 export const socialLinks: SocialLink[] = [
